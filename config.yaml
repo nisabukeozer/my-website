@@ -1,27 +1,27 @@
-baseURL: http://example.org/
+baseURL: "https://nisaozer2.netlify.app/"
 languageCode: en-us
-title: Forty
+title: Kostis Assignment
 theme: forty
 googleAnalytics: ''
 disqusShortname: ''
 params:
   banner:
     buttonText: Get Started
-    subtitle: |-
-      A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
-      AND RELEASED UNDER THE CREATIVE COMMONS.
-    title: Hi, my name is Nisa
+    #subtitle: |-
+      #A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
+      #AND RELEASED UNDER THE CREATIVE COMMONS.
+    title: Nisa Buke Ozer
   blog: {}
   contact:
     address:
-      - city: City, ST 00000
+      - city: London
         country: UK
         street: Baker Street
         title: Address
     buttonClear: Clear
     buttonSend: Send message
     email:
-      - email: example@domain.com
+      - email: nisabukeozer@gmail.com
         title: Email
     enable: yes
     phone:
@@ -29,7 +29,7 @@ params:
         title: Phone
   custom_css: []
   custom_js: []
-  description: Your description
+  description: Engineer, data analyst, musician
   error404:
     heading: Page couldn't be found
     text: Please visit [this page](/)
@@ -44,10 +44,10 @@ params:
     social:
       - icon: fa-twitter
         label: Twitter
-        url: https://www.twitter.com
+        url: https://www.twitter.com/nisabukeozer
       - icon: fa-facebook
         label: Facebook
-        url: https://www.facebook.com
+        url: https://www.facebook.com/
       - icon: fa-instagram
         label: Instagram
         url: https://www.instagram.com/nisabukeozer
